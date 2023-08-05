@@ -11,12 +11,12 @@ The dataset consist of following rows:
 - Regional Summary of Covid-19
 - Country Summary of Covid-19
 
-  <img width="1166" alt="data" src="https://github.com/codergirls/Data_Analysis_flights/assets/47496146/67ae85ce-e762-456e-b1de-44e4f8e6e655">
+<img width="1166" alt="data" src="https://github.com/codergirls/Data_Analysis_flights/assets/47496146/67ae85ce-e762-456e-b1de-44e4f8e6e655">
 
 It is a large Dataset of 9 fields and 205951 rows and this a global data of covid-19 .
 
 The first tile of the dashboard is looking for confirmed cases all over the Globe and it shows that the US has more number of confirmed cases compared to any other country .
-<img width="598" alt="1" src="https://github.com/codergirls/Data_Analysis_flights/assets/47496146/11b3948b-5c45-4a1c-992c-43a3b2302d3a">
+<img width="1166" alt="1" src="https://github.com/codergirls/Data_Analysis_flights/assets/47496146/11b3948b-5c45-4a1c-992c-43a3b2302d3a">
 
 The Second tile is Recovered cases all over the Globe and similarly US has highest recovery rate compared to brazil,Canada and India .
 <img width="1058" alt="2" src="https://github.com/codergirls/Data_Analysis_flights/assets/47496146/69b47fd3-4cba-4f4b-85a1-3ddc63763745">
